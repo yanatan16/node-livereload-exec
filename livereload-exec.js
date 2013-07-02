@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var livereload = require('livereload'),
 	server = livereload.createServer();
 

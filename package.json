@@ -9,7 +9,7 @@
   },
   "main": "livereload-exec.js",
   "bin": {
-    "livereload-start": "node livereload-exec.js"
+    "livereload-start": "livereload-exec.js"
   },
   "license": "MIT",
   "dependencies": {
