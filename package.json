@@ -1,0 +1,21 @@
+{
+  "name": "livereload-exec",
+  "version": "0.0.1",
+  "description": "A simple executable for an arbitrary livereload server.",
+  "author": "Jon Eisen <jon.m.eisen@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yanatan16/node-livereload-exec.git"
+  },
+  "main": "livereload-exec.js",
+  "bin": {
+    "livereload-start": "node livereload-exec.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "livereload": "~0.3.0"
+  },
+  "engines": {
+    "node": ">=0.8.x"
+  }
+}
