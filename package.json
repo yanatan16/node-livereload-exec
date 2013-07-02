@@ -1,6 +1,6 @@
 {
   "name": "livereload-exec",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A simple executable for an arbitrary livereload server.",
   "author": "Jon Eisen <jon.m.eisen@gmail.com>",
   "repository": {
